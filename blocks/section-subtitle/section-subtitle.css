@@ -1,0 +1,9 @@
+.section-subtitle {
+  text-align: center;
+  margin: 20px auto 60px;
+  padding: 0;
+  max-width: 60%;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+}
